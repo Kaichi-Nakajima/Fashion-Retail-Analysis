@@ -1,2 +1,2 @@
 # Fashion-Retail-Analysis
-This project analyses inventory exposure and markdown strategy using SQL and Tableau to evaluate overstock risk, pricing response, and customer satisfaction in fashion retail
+This project investigates the relationship between inventory levels, markdown strategies, and customer satisfaction in fashion retail. The analysis identifies overstocked product segments, evaluates pricing responses across product attributes, and examines whether inventory misalignment impacts customer ratings and seasonal demand
